@@ -23,7 +23,7 @@ p {
   margin: 0
 }
 
-.SammyPic img {
+.bigpic img {
   width: 400px;
   border-radius: 100%;
   transform: rotate(180deg);
